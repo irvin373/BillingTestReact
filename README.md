@@ -22,6 +22,6 @@ on the modal you can create new Billings if a client was selected on the filters
 
 ## How to build your app
 
-this project is worked on React with Vite you can start the project by running `npm run dev` to start on the local server.
+this project is worked on React with Vite you can start the project by running `npm install` and `npm run dev` to start on the local server.
 
 ## How to test your app using a script
